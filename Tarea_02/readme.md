@@ -1,0 +1,9 @@
+# Explicación soluciones
+## Primer ejercicio
+El primer ejercicio, que consistía en hacer un programa que imprima los números de -100 a 200, entendí como hacerlo en clases durante la explicación de las profesoras. Para esto usamos la "instrucción" lista_range, pusimos que aparecieran los números desde -100 a 201, para que aparezca el número 200, una secuencia larga de números seguidos. Después pusimos el valor index que, según lo que entendí, sirve para encontrar la posición dentro de esta cadena. Después se imprimen estos números de atrás para adelante desde 200 a -99.
+## Segundo ejercicio
+Este también lo explicaron en clases, en dónde le pedimos a Python que nos muestre todos los números del -100 al 200 que sean divisibles por 6, utilizando el símbolo "%" para ejecutar esta orden. Como resultado, el código nos muestra una losta con todos los números de esta lista que cumplen con este objetivo.
+## Tercer ejercicio
+Este me costó mucho más. Con este ejercicio finalmente entendí que la finalidad del lenguaje Python es para dar instrucciones, no necesariamente resultados. En este caso utilicé int(input()) para que el resultado pueda tener texto y que, según la suma de los números que yo quiera, me indique con cual de las variable sexigidad funciona.
+## Cuarto ejercicio
+Este fue el más difícil. Me complicó lo de True y False y aún no entiendo como hacer para que el resultado pueda ser si es mayor de dad y no le gusta la música urbana, o no es mayor de edad y si le gusta la música urbana. Tengo mis dudas si es que puedo lograr eso, pero básicamente unse también int(input()) para que me aparexca el resultado como texto y puse el resultado que me debería dar cualquiera de las dos variables.
